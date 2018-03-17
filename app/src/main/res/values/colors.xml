@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="abuabu">#f0f6f6</color>
+    <color name="merah">#e91d28</color>
+    <color name="merah2">#e61e29</color>
+    <color name="putih">#ffffff</color>
+    <color name="text">#8c999f</color>
+    <color name="text_button">#fefeff</color>
 </resources>
